@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Search",
+  "description": "A Google-inspired search engine experience powered by Gemini's Grounding with Google Search.",
+  "requestFramePermissions": []
+}
